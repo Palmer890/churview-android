@@ -11,7 +11,7 @@ Live TV, a proper TV guide, films and series, all in one place, made to be used 
 
 ![Android TV](https://img.shields.io/badge/Android%20TV-boxes%20%7C%20smart%20TVs-7B5BF5?style=flat-square)
 ![Phones](https://img.shields.io/badge/phones-Android%206%2B-7B5BF5?style=flat-square)
-![Downloader code](https://img.shields.io/badge/Downloader%20code-2029447-9D85FF?style=flat-square)
+![Downloader code](https://img.shields.io/badge/Downloader%20code-7003953-9D85FF?style=flat-square)
 ![Made in](https://img.shields.io/badge/made%20by-a%20Kiwi%20🤙-9D85FF?style=flat-square)
 
 <img src="home.png" alt="ChurView home screen" width="900">
@@ -65,7 +65,7 @@ Follow a family member's favourite channels, and set a parental PIN.
 
 **On a TV box or Android TV**
 1. Install the free **Downloader** app from the Play Store.
-2. In Downloader, type the code **`2029447`** and press Go.
+2. In Downloader, type the code **`7003953`** and press Go.
    (Or the full address: `github.com/Palmer890/churview-android/releases/latest/download/ChurView.apk`)
 3. The newest ChurView downloads straight away. Press **Install**. If asked, allow Downloader to install apps.
 
