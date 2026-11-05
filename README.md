@@ -7,10 +7,11 @@
 **A good-looking, easy TV player for your own IPTV subscription, on your TV box, Android TV or phone.**
 Live TV, a proper TV guide, films and series, all in one place, made to be used with a TV remote.
 
-[![Download](https://img.shields.io/badge/⬇%20Download-latest%20APK-7B5BF5?style=for-the-badge)](https://github.com/Palmer890/churview-android/releases/latest)
+[![Download](https://img.shields.io/badge/⬇%20Download-latest%20APK-7B5BF5?style=for-the-badge)](https://github.com/Palmer890/churview-android/releases/latest/download/ChurView.apk)
 
 ![Android TV](https://img.shields.io/badge/Android%20TV-boxes%20%7C%20smart%20TVs-7B5BF5?style=flat-square)
 ![Phones](https://img.shields.io/badge/phones-Android%206%2B-7B5BF5?style=flat-square)
+![Downloader code](https://img.shields.io/badge/Downloader%20code-2029447-9D85FF?style=flat-square)
 ![Made in](https://img.shields.io/badge/made%20by-a%20Kiwi%20🤙-9D85FF?style=flat-square)
 
 <img src="home.png" alt="ChurView home screen" width="900">
@@ -64,11 +65,12 @@ Follow a family member's favourite channels, and set a parental PIN.
 
 **On a TV box or Android TV**
 1. Install the free **Downloader** app from the Play Store.
-2. In Downloader, open `github.com/Palmer890/churview-android/releases/latest`.
-3. Pick the `ChurView-x.x.x.apk` file and install it. If asked, allow Downloader to install apps.
+2. In Downloader, type the code **`2029447`** and press Go.
+   (Or the full address: `github.com/Palmer890/churview-android/releases/latest/download/ChurView.apk`)
+3. The newest ChurView downloads straight away. Press **Install**. If asked, allow Downloader to install apps.
 
 **On a phone**
-Open the [**latest release**](https://github.com/Palmer890/churview-android/releases/latest) on your phone, tap the `.apk` file and install it.
+Tap [**Download ChurView**](https://github.com/Palmer890/churview-android/releases/latest/download/ChurView.apk) on your phone, then open the file and install it.
 
 **Updates**
 ChurView checks for new versions itself: see **Settings → Help & updates**. New versions go up as a **pre-release** first. Tick **Try new updates first** if you'd like them early.
