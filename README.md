@@ -9,10 +9,10 @@ Live TV, a proper TV guide, films and series, all in one place, made to be used 
 
 [![Download](https://img.shields.io/badge/⬇%20Download-latest%20APK-7B5BF5?style=for-the-badge)](https://github.com/Palmer890/churview-android/releases/latest/download/ChurView.apk)
 
-![Android TV](https://img.shields.io/badge/Android%20TV-boxes%20%7C%20smart%20TVs-7B5BF5?style=flat-square)
-![Phones](https://img.shields.io/badge/phones-Android%206%2B-7B5BF5?style=flat-square)
-![Downloader code](https://img.shields.io/badge/Downloader%20code-7003953-9D85FF?style=flat-square)
-![Made in](https://img.shields.io/badge/made%20by-a%20Kiwi%20🤙-9D85FF?style=flat-square)
+[![Android TV](https://img.shields.io/badge/Android%20TV-boxes%20%7C%20smart%20TVs-7B5BF5?style=flat-square)](#installing-it)
+[![Phones](https://img.shields.io/badge/phones-Android%206%2B-7B5BF5?style=flat-square)](#installing-it)
+[![Downloader code](https://img.shields.io/badge/Downloader%20code-7003953-9D85FF?style=flat-square)](#installing-it)
+[![Made in](https://img.shields.io/badge/made%20by-a%20Kiwi%20🤙-9D85FF?style=flat-square)](https://github.com/Palmer890/flux-media)
 
 <img src="home.png" alt="ChurView home screen" width="900">
 
